@@ -1,0 +1,44 @@
+[
+  {
+    "prenom": "Mario",
+    "nom": "Mario",
+    "birthDate": "09/07/1981",
+    "biography": "Le héros principal du Royaume Champignon. Mario est toujours souriant et joyeux, et immédiatement reconnaissable à sa salopette bleue, sa casquette rouge et sa moustache emblématique.",
+    "image": "mario.png"
+  },
+  {
+    "prenom": "Luigi",
+    "nom": "Mario",
+    "birthDate": "14/07/1983",
+    "biography": "Frère de Mario et compagnon héros du Royaume Champignon, Luigi est immédiatement reconnaissable à son chapeau et sa chemise verts.",
+    "image": "luigi.png"
+  },
+  {
+    "prenom": "Peach",
+    "nom": "Toadstool",
+    "birthDate": "18/10/1985",
+    "biography": "La princesse adorée du Royaume Champignon. D'une extrême gentillesse, elle œuvre sans relâche pour créer un monde où chacun puisse vivre heureux ensemble. Sa robe rose emblématique est absolument ravissante.",
+    "image": "peach.png"
+  },
+  {
+    "prenom": "Daisy",
+    "nom": "Sarasaland",
+    "birthDate": "21/04/1989",
+    "biography": "La princesse de Sarasaland. Son style emblématique se caractérise par sa robe jaune et ses accessoires fleuris. Daisy est joyeuse, énergique et adore pratiquer divers sports avec Mario et ses amis.",
+    "image": "daisy.png"
+  },
+  {
+    "prenom": "Bowser",
+    "nom": "Koopa",
+    "birthDate": "13/09/1985",
+    "biography": "Le roi des Koopas. Bowser est l'ennemi juré de Mario et sème constamment la pagaille dans le Royaume Champignon.",
+    "image": "bowser.png"
+  },
+  {
+    "prenom": "Yoshi",
+    "nom": "Yoshisaur",
+    "birthDate": "21/11/1990",
+    "biography": "Le fidèle compagnon de Mario, originaire de l'île de Yoshi. Il est vert, mais d'autres de son espèce peuvent être d'autres couleurs comme le rouge, le bleu, le rose et le jaune.",
+    "image": "yoshi.png"
+  }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipe>
+    <player>
+        <prenom>Mario</prenom>
+        <nom>Mario</nom>
+        <birthDate>1981-07-09</birthDate>
+        <biography>Le héros principal du Royaume Champignon. Mario est toujours souriant et joyeux, et immédiatement reconnaissable à sa salopette bleue, sa casquette rouge et sa moustache emblématique.</biography>
+        <image>mario.png</image>
+    </player>
+    <player>
+        <prenom>Luigi</prenom>
+        <nom>Mario</nom>
+        <birthDate>1983-07-14</birthDate>
+        <biography>Frère de Mario et compagnon héros du Royaume Champignon, Luigi est immédiatement reconnaissable à son chapeau et sa chemise verts.</biography>
+        <image>luigi.png</image>
+    </player>
+    <player>
+        <prenom>Peach</prenom>
+        <nom>Toadstool</nom>
+        <birthDate>1985-10-18</birthDate>
+        <biography>La princesse adorée du Royaume Champignon. D'une extrême gentillesse, elle œuvre sans relâche pour créer un monde où chacun puisse vivre heureux ensemble. Sa robe rose emblématique est absolument ravissante.</biography>
+        <image>peach.png</image>
+    </player>
+    <player>
+        <prenom>Daisy</prenom>
+        <nom>Sarasaland</nom>
+        <birthDate>1989-04-21</birthDate>
+        <biography>La princesse de Sarasaland. Son style emblématique se caractérise par sa robe jaune et ses accessoires fleuris. Daisy est joyeuse, énergique et adore pratiquer divers sports avec Mario et ses amis.</biography>
+        <image>daisy.png</image>
+    </player>
+    <player>
+        <prenom>Bowser</prenom>
+        <nom>Koopa</nom>
+        <birthDate>1985-09-13</birthDate>
+        <biography>Le roi des Koopas. Bowser est l'ennemi juré de Mario et sème constamment la pagaille dans le Royaume Champignon.</biography>
+        <image>bowser.png</image>
+    </player>
+    <player>
+        <prenom>Yoshi</prenom>
+        <nom>Yoshisaur</nom>
+        <birthDate>1990-11-21</birthDate>
+        <biography>Le fidèle compagnon de Mario, originaire de l'île de Yoshi. Il est vert, mais d'autres de son espèce peuvent être d'autres couleurs comme le rouge, le bleu, le rose et le jaune.</biography>
+        <image>yoshi.png</image>
+    </player>
+</equipe>
